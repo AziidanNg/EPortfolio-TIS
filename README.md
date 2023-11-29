@@ -1,8 +1,11 @@
 # Technology-and-Information-System-SECP1513
 # [Aziidan Ng - Student in Computer Networks And Security](https://github.com/AziidanNg)
 ![](https://komarev.com/ghpvc/?username=AziidanNg&color=ff69b4)
-### My Biodata
-![alt text](https://github.com/AziidanNg/EPortfolio-TIS/blob/main/Profile/photo1701257378.jpeg){:height="36px" width="36px"}
+
+<img src="https://github.com/AziidanNg/EPortfolio-TIS/blob/main/Profile/photo1701257378.jpeg" width="300" height="300">
+
+
+### My Biodata  
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19
 - Born : 12/05/2004

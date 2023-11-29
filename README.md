@@ -52,6 +52,15 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - Digital Logic
 - Integrity And Anti-Corruption
 
+### Certificate
+- Best Student for .....
+
+# Additional
+### Honors and Awards
+-.....
+### Project
+-......
+
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

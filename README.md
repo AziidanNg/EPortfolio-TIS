@@ -6,12 +6,14 @@
 ### My Biodata  
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19
-- Born : 12/05/2004
-- Siblings : 1st out of 6 siblings
 - Origin : Klang, Selangor
+- 📫 How to reach me: **muhammadaziidan@graduate.utm.my** 
 
 ### Summary
 Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and you all can call me Aziidan, Azii, Dan or whatever you want :smiley:. My hobbies are watching anime and to play tennis. I am interested in Computer Science since in primary school and it keeps on growing stronger in middle school especially in programming and cybersecurity.
+
+### Reach me
+<a href="https://instagram.com/zdn_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zdn_ng" height="30" width="40" /></a>
 
 # Core
 ### My Studies

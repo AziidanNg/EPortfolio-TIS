@@ -3,9 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AziidanNg&color=ff69b4)
 
-<img src="https://github.com/AziidanNg/EPortfolio-TIS/blob/main/Profile/photo1701257378.jpeg" width="300" height="300">
-
-
 ### My Biodata  
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19

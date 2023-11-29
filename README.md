@@ -30,7 +30,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - EXCO of Sekretariat Rukun Negara SRN (2022)
 - Secretary Lajnah Economy and Welfare As-Saff (2022)
 
-### Skills
+### 🧰 Skills
 - Microsoft SQL Server
 - SQL
 - Python

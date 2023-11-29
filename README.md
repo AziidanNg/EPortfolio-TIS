@@ -16,7 +16,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 <a href="https://instagram.com/zdn_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zdn_ng" height="30" width="40" /></a>
 
 
-# Core
+# :mag: Core
 ### My Studies
 **Primary School**
 - SK Taman Sri Andalas
@@ -47,7 +47,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 <br />
 
 
-# Recommended
+# :key: Recommended
 ### Course
 🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours. I just entered the University and currently in the first semester. In this semester I study about
 - Discrete Structure
@@ -59,7 +59,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 ### Certificate
 - Best Student for .....
 
-# Additional
+# :heavy_plus_sign: Additional
 ### Honors and Awards
 -.....
 ### Project

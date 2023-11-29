@@ -2,6 +2,7 @@
 # [Aziidan Ng - Student in Computer Networks And Security](https://github.com/AziidanNg)
 ![](https://komarev.com/ghpvc/?username=AziidanNg&color=ff69b4)
 ### My Biodata
+![alt text](https://drive.google.com/file/d/1-F8M9AU6ebBIs5u-OMHcwZsMsu1azQly/view?usp=drive_link)
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19
 - Born : 12/05/2004

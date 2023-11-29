@@ -15,6 +15,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 ### Reach me
 <a href="https://instagram.com/zdn_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zdn_ng" height="30" width="40" /></a>
 
+
 # Core
 ### My Studies
 **Primary School**
@@ -44,6 +45,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <br />
+
 
 # Recommended
 ### Course

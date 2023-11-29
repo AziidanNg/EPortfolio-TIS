@@ -1,5 +1,6 @@
-# Technology-and-Information-System-SECP1513
-# [Aziidan Ng - Student in Computer Networks And Security](https://github.com/AziidanNg)
+# [Aziidan Ng](https://github.com/AziidanNg)
+**`Computer Networks and Security (Student)`**
+
 ![](https://komarev.com/ghpvc/?username=AziidanNg&color=ff69b4)
 
 <img src="https://github.com/AziidanNg/EPortfolio-TIS/blob/main/Profile/photo1701257378.jpeg" width="300" height="300">

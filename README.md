@@ -57,13 +57,11 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - Integrity And Anti-Corruption
 
 ### Certificate
-- Best Student for .....
+- Participation in Leadership Course Peer Assisted Learning (PAL) Malaysia Ministry of Education programme National Level 2022
+- First Place Programming Challenge KMS
+- 2nd Place Pedagogy Competition in Computer Science Peer Assisted Learning (PAL) Simposium KPM Matriculation Programme 
 
-# :heavy_plus_sign: Additional
-### Honors and Awards
--.....
-### Project
--......
+✨ Thats all from me hehe ✨
 
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
